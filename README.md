@@ -35,9 +35,9 @@ streamlit run ui/app.py
 
 ## API Endpoints
 
-- `POST /api/analyze` - Analyze a chest X-ray study
-- `GET /api/patient/{patient_id}/timeline` - Get patient progression timeline
-- `GET /api/patient/{patient_id}/snapshot` - Get latest study with summaries
+- `POST /api/analyze` - Analyzes a chest X-ray study
+- `GET /api/patient/{patient_id}/timeline` - Gets patient progression timeline
+- `GET /api/patient/{patient_id}/snapshot` - Gets latest study with summaries
 
 ## Tech Stack
 
@@ -46,6 +46,4 @@ streamlit run ui/app.py
 - **Frontend**: Streamlit
 - **GenAI**: OpenAI (optional)
 
-## Disclaimer
-
-This tool is for research and educational purposes only. It does not provide medical advice, diagnosis, or treatment recommendations.
+## Disclaimer: Please DO NOT use this project for professional medical diagnoses. This is a personal project I created for learning and experience purposes ONLY. 
