@@ -28,10 +28,10 @@ streamlit run ui/app.py
 
 ## Features
 
-- **Computer Vision**: Multi-label chest X-ray analysis (atelectasis, consolidation, effusion, infiltration, pneumonia)
-- **NLP**: Radiology report parsing and change detection (improved/stable/worsened)
-- **Progression Tracking**: Time-series progression scoring with trend analysis
-- **GenAI Summaries**: Clinical and patient-friendly explanations with safety guardrails
+- Multi-label chest X-ray analysis (atelectasis, consolidation, effusion, infiltration, pneumonia)
+- Radiology report parsing and change detection (improved/stable/worsened)
+- Time-series progression scoring with trend analysis
+- Clinical and patient-friendly explanations with safety guardrails
 
 ## API Endpoints
 
