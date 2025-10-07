@@ -2,7 +2,7 @@
 
 Serial chest X-rays + reports → get per-scan findings, a time-series "progression score," and a GenAI summary.
 
-## Quick Start
+
 
 ### 1) Setup
 ```bash
