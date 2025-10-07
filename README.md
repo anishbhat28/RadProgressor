@@ -1,6 +1,6 @@
 # RadProgressor - Radiology Progression Lite
 
-Upload serial chest X-rays + reports → get per-scan findings, a time-series "progression score," and a patient-friendly GenAI summary.
+Serial chest X-rays + reports → get per-scan findings, a time-series "progression score," and a GenAI summary.
 
 ## Quick Start
 
